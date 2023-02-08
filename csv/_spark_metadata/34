@@ -1,0 +1,5 @@
+v1
+{"path":"file:///home/river/Documentos/SPARK_STREAMING/csv/part-00000-cc9a82d9-13eb-494a-b8db-37e62a0aa50f-c000.csv","size":225,"isDir":false,"modificationTime":1675880223644,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/river/Documentos/SPARK_STREAMING/csv/part-00001-58eaacd3-eaa4-475c-8301-4f4f21585b39-c000.csv","size":31,"isDir":false,"modificationTime":1675880223684,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/river/Documentos/SPARK_STREAMING/csv/part-00002-fcf17eda-ea10-4dfd-840c-e8366700034d-c000.csv","size":101,"isDir":false,"modificationTime":1675880223672,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/river/Documentos/SPARK_STREAMING/csv/part-00003-cfd47e91-8b1e-487d-9b83-4a38d9d626c0-c000.csv","size":30,"isDir":false,"modificationTime":1675880223700,"blockReplication":1,"blockSize":33554432,"action":"add"}

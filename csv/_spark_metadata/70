@@ -1,0 +1,3 @@
+v1
+{"path":"file:///home/river/Documentos/SPARK_STREAMING/csv/part-00000-f5299a27-6fb5-49f7-9754-cc98acd0cd55-c000.csv","size":525,"isDir":false,"modificationTime":1675880311814,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/river/Documentos/SPARK_STREAMING/csv/part-00001-6d3d39cd-b268-4e3f-9339-3c6ae5577455-c000.csv","size":23,"isDir":false,"modificationTime":1675880311810,"blockReplication":1,"blockSize":33554432,"action":"add"}
